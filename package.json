@@ -15,16 +15,16 @@
     "bindings"
   ],
   "author": "Alban Mouton <alban.mouton@gmail.com>",
-  "homepage": "https://github.com/albanm/node-libxslt",
+  "homepage": "https://github.com/fhperuchi/node-libxslt",
   "contributors": [
     "Rui Azevedo <ruihfazevedo@gmail.com> (http://www.r-site.net/)"
   ],
   "bugs": {
-    "url": "https://github.com/albanm/node-libxslt/issues"
+    "url": "https://github.com/fhperuchi/node-libxslt/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/albanm/node-libxslt.git"
+    "url": "https://github.com/fhperuchi/node-libxslt.git"
   },
   "license": "MIT",
   "dependencies": {
